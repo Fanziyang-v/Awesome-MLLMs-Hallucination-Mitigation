@@ -6,6 +6,7 @@ This is a list of some awesome works on mitigating hallucination in large multim
 ## :books:Survey
 
 1. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930) (Apr. 30, 2024)[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.18930)[![github](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination)](https://github.com/showlab/Awesome-MLLM-Hallucination/)
+1. [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253) (Feb. 1, 2024)[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00253)[![github](https://img.shields.io/github/stars/lhanchao777/LVLM-Hallucinations-Survey)](https://github.com/lhanchao777/LVLM-Hallucinations-Survey)
 
 
 
@@ -57,7 +58,7 @@ This is a list of some awesome works on mitigating hallucination in large multim
 
 
 
-
+  
 
 ## :star:Acknowledgment
 
